@@ -1,5 +1,5 @@
-# ListofVisBlogs
-A curated list of visualization related blogs for reference
+# List of Vis Blogs
+A curated list of visualization related blogs
 
 Infosthetics
 http://infosthetics.com/
