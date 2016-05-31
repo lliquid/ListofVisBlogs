@@ -16,3 +16,5 @@ http://mariandoerk.de/
 Moritz Stefaner's Personal Webpage
 http://truth-and-beauty.net/
 
+Google Big Picture Group
+https://research.google.com/bigpicture/
