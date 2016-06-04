@@ -21,3 +21,10 @@ https://research.google.com/bigpicture/
 
 Twitter #interactive
 https://interactive.twitter.com/
+
+Driven By Data
+http://driven-by-data.net/
+
+Visual Complexity
+http://www.visualcomplexity.com/vc/
+
