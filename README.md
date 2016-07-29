@@ -30,3 +30,6 @@ http://www.visualcomplexity.com/vc/
 
 Periscopic.com
 http://www.periscopic.com/our-work
+
+FlowingData
+http://flowingdata.com/
