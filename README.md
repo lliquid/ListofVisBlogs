@@ -25,6 +25,11 @@ https://interactive.twitter.com/
 Driven By Data
 http://driven-by-data.net/
 
+Tufte
+https://www.edwardtufte.com/tufte/
+
+
+
 Visual Complexity
 http://www.visualcomplexity.com/vc/
 
