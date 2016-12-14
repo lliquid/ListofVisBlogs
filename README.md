@@ -16,6 +16,9 @@ http://mariandoerk.de/
 Moritz Stefaner's Personal Webpage
 http://truth-and-beauty.net/
 
+Tulp Interactive Data Experience Design
+http://tulpinteractive.com/
+
 Google Big Picture Group
 https://research.google.com/bigpicture/
 
