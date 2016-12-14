@@ -19,6 +19,9 @@ http://truth-and-beauty.net/
 Tulp Interactive Data Experience Design
 http://tulpinteractive.com/
 
+Shirley Xueyang Wu
+http://sxywu.com/
+
 Google Big Picture Group
 https://research.google.com/bigpicture/
 
@@ -30,8 +33,6 @@ http://driven-by-data.net/
 
 Tufte
 https://www.edwardtufte.com/tufte/
-
-
 
 Visual Complexity
 http://www.visualcomplexity.com/vc/
