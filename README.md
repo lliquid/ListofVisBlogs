@@ -22,6 +22,9 @@ http://tulpinteractive.com/
 Shirley Xueyang Wu
 http://sxywu.com/
 
+C82: Works fo Nicholas Rougeux
+http://www.c82.net/
+
 Google Big Picture Group
 https://research.google.com/bigpicture/
 
