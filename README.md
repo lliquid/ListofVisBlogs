@@ -48,3 +48,6 @@ http://flowingdata.com/
 
 Dataveyes.com
 http://dataveyes.com/#!/en
+
+Stamen Design
+http://stamen.com/
