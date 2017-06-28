@@ -51,3 +51,6 @@ http://dataveyes.com/#!/en
 
 Stamen Design
 http://stamen.com/
+
+Density Design
+http://www.densitydesign.org/projects/
