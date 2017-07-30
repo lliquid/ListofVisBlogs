@@ -1,6 +1,8 @@
 # List of Vis Blogs
 A curated list of visualization related blogs
 
+## Nice Demos and Inspirations
+
 Infosthetics
 http://infosthetics.com/
 
@@ -54,3 +56,15 @@ http://stamen.com/
 
 Density Design
 http://www.densitydesign.org/projects/
+
+## The Academics!
+
+Prof. John Stasko, Georgia Tech
+https://jts3blog.wordpress.com/
+
+Eager Eyes, Robert Kosara, Tableau Research
+https://eagereyes.org/about
+
+Niklas Elmqvist, University of Maryland
+https://sites.umiacs.umd.edu/elm/
+
