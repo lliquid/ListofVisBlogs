@@ -1,7 +1,7 @@
 # List of Vis Blogs
 A curated list of visualization related blogs
 
-## Nice Demos and Inspirations
+### Nice Demos and Inspirations
 
 Infosthetics
 http://infosthetics.com/
@@ -57,7 +57,7 @@ http://stamen.com/
 Density Design
 http://www.densitydesign.org/projects/
 
-## The Academics!
+### The Academics
 
 Prof. John Stasko, Georgia Tech
 https://jts3blog.wordpress.com/
