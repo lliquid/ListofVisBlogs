@@ -3,6 +3,9 @@ A curated list of visualization related blogs
 
 ### Nice Demos and Inspirations
 
+Topi Tjukanov (Geospatial data from a new perspective)
+https://tjukanov.org/
+
 Infosthetics
 http://infosthetics.com/
 
