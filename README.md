@@ -71,3 +71,5 @@ https://eagereyes.org/about
 Niklas Elmqvist, University of Maryland
 https://sites.umiacs.umd.edu/elm/
 
+Tamara Munzner, UBC
+https://tamaramunzner.wordpress.com/
