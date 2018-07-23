@@ -3,6 +3,9 @@ A curated list of visualization related blogs
 
 ### Nice Demos and Inspirations
 
+123 Data Paris
+https://123data.paris/
+
 Topi Tjukanov (Geospatial data from a new perspective)
 https://tjukanov.org/
 
