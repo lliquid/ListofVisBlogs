@@ -3,6 +3,9 @@ A curated list of visualization related blogs
 
 ### Nice Demos and Inspirations
 
+Built with Mapbox 
+https://blog.mapbox.com/tagged/built-with-mapbox
+
 123 Data Paris
 https://123data.paris/
 
