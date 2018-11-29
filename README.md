@@ -1,6 +1,13 @@
 # List of Vis Blogs
 A curated list of visualization related blogs
 
+
+### Conferences
+
+Tapestry
+https://medium.com/tapestry-blog
+
+
 ### Nice Demos and Inspirations
 
 Explorable Explanations
