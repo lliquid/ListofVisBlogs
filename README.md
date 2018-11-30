@@ -7,6 +7,10 @@ A curated list of visualization related blogs
 Tapestry
 https://medium.com/tapestry-blog
 
+Eyeo
+http://eyeofestival.com/
+
+
 
 ### Nice Demos and Inspirations
 
