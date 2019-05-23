@@ -1,15 +1,5 @@
 # List of Vis Blogs
-A curated list of visualization related blogs
-
-
-### Conferences
-
-Tapestry
-https://medium.com/tapestry-blog
-
-Eyeo
-http://eyeofestival.com/
-
+A curated list of visualization related blogs and websites
 
 
 ### Nice Demos and Inspirations
@@ -79,3 +69,13 @@ http://stamen.com/
 
 Density Design
 http://www.densitydesign.org/projects/
+
+
+### Conferences
+
+Tapestry
+https://medium.com/tapestry-blog
+
+Eyeo
+http://eyeofestival.com/
+
