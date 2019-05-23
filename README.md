@@ -79,17 +79,3 @@ http://stamen.com/
 
 Density Design
 http://www.densitydesign.org/projects/
-
-### The Academics
-
-Prof. John Stasko, Georgia Tech
-https://jts3blog.wordpress.com/
-
-Eager Eyes, Robert Kosara, Tableau Research
-https://eagereyes.org/about
-
-Niklas Elmqvist, University of Maryland
-https://sites.umiacs.umd.edu/elm/
-
-Tamara Munzner, UBC
-https://tamaramunzner.wordpress.com/
