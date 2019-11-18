@@ -7,6 +7,9 @@ A curated list of visualization related blogs and websites
 TabletopWhale
 http://tabletopwhale.com/index.html
 
+Earthquakes
+https://glowy-earthquakes.glitch.me/
+
 Explorable Explanations
 https://explorabl.es/
 
