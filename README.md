@@ -4,6 +4,9 @@ A curated list of visualization related blogs and websites
 
 ### Nice Demos and Inspirations
 
+TabletopWhale
+http://tabletopwhale.com/index.html
+
 Explorable Explanations
 https://explorabl.es/
 
