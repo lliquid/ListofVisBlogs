@@ -81,6 +81,8 @@ http://www.densitydesign.org/projects/
 Glowy Earthquakes
 https://glowy-earthquakes.glitch.me/
 
+Why do dogs?
+https://whydocatsanddogs.com/dogs
 
 ### Conferences
 
