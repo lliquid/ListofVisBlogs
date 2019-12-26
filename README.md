@@ -10,6 +10,9 @@ http://tabletopwhale.com/index.html
 Earthquakes
 https://glowy-earthquakes.glitch.me/
 
+Paths to Congress by NYTimes
+https://www.nytimes.com/interactive/2019/01/26/opinion/sunday/paths-to-congress.html
+
 Explorable Explanations
 https://explorabl.es/
 
