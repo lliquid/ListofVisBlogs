@@ -4,6 +4,9 @@ A curated list of visualization related blogs and websites
 
 ### Nice Demos and Inspirations
 
+WSJ Graphics -- Data Journalism
+https://graphics.wsj.com/
+
 TabletopWhale
 http://tabletopwhale.com/index.html
 
